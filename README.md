@@ -10,9 +10,9 @@ Cara Install
 - php artisan serve
 
 url admin
-=> http://127.0.0.1:8000/admin
-=> email : admin@admin.com
-=> password : 123456
+- http://127.0.0.1:8000/admin
+- email : admin@admin.com
+- password : 123456
 
 ![enter image description here](https://lh3.googleusercontent.com/SMj1RinpJGs8QEEHqC7ZTjrge-u7r7pNv699689WYxkNVwZsGF4ES4qrznjfxnjnYPTEFuyiUYpv)
 
@@ -28,3 +28,7 @@ url admin
 ![enter image description here](https://lh3.googleusercontent.com/VXtNlETmEvXmVdSHD-hEGAOLweomdi_9BSoe-knMhZu2xsfsTqWHbuzJ6G8IsKsAU5zv5h3TwlbW)
 
 ![enter image description here](https://lh3.googleusercontent.com/MgtV7sXm6FAq6skqKsLiApMtvM98p5TJ_cN4TzHONq51366hC41z-tzNVVQG_jby6_30bFYaUUrf)
+
+## Lisensi
+
+zaincms di bawah  lisensi [MIT](https://github.com/zainstar/zaincms/blob/master/LICENSE)
